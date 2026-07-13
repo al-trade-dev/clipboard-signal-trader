@@ -5,7 +5,7 @@ Telegram, Discord, or anywhere else) into orders — with a human in the loop at
 every step. You copy a signal to the clipboard, click **Load**, review and edit
 a proposed order table, and only then click **OK / Send**.
 
-<img width="756" height="446" alt="image" src="https://github.com/user-attachments/assets/e8668684-d2d3-46aa-b3ce-7f0be66e8c3b" />
+<img width="756" height="446" alt="image" src="https://github.com/user-attachments/assets/7837e062-ecd8-4b48-b394-a411c5fb3cf0" />
 
 <img width="1071" height="500" alt="image" src="https://github.com/user-attachments/assets/88340f39-8cf1-4001-bbe2-35aa0d2059f6" />
 
