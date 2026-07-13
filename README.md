@@ -7,6 +7,8 @@ a proposed order table, and only then click **OK / Send**.
 
 <img width="756" height="446" alt="image" src="https://github.com/user-attachments/assets/e8668684-d2d3-46aa-b3ce-7f0be66e8c3b" />
 
+<img width="1071" height="500" alt="image" src="https://github.com/user-attachments/assets/88340f39-8cf1-4001-bbe2-35aa0d2059f6" />
+
 
 The EA never watches a channel and never fires on its own. Nothing reaches the
 market without an explicit click.
